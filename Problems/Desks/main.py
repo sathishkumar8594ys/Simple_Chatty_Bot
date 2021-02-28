@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+c = int(input())
+x = (a % 2) + (a // 2)
+y = (b % 2) + (b // 2)
+z = (c % 2) + (c // 2)
+print(x + y + z)
